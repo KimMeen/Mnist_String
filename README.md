@@ -1,5 +1,5 @@
 # Mnist_String
-这是一个基于tensorflow识别一组手写字体的简单demo（待完善）
+这是一个基于tensorflow识别一组手写数字的简单demo（需要调参，待完善）
 
 模型采用的是简单训练的mnist
 
